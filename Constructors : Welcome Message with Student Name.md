@@ -27,6 +27,7 @@ obj.show()
 ~~~
 
 ## Output
+<img width="636" height="389" alt="image" src="https://github.com/user-attachments/assets/43936e5a-29ae-46bd-b02d-bc143030acb3" />
 
 ## Result
 Thus, The Python program that creates a Student class with a default constructor and a method to display a welcome message along with the student’s name provided by the user was executed succesfully.
