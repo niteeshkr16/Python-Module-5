@@ -82,6 +82,9 @@ pat.getPatientDetails()
 ~~~
 
 ## Sample Output
+<img width="841" height="702" alt="Screenshot 2026-04-26 093851" src="https://github.com/user-attachments/assets/32d11add-98d8-4f1f-bddb-f6ca4aa153ff" />
+<img width="846" height="461" alt="image" src="https://github.com/user-attachments/assets/6461035e-342d-4805-9487-43a0072e5b71" />
+<img width="849" height="355" alt="image" src="https://github.com/user-attachments/assets/be523766-857e-475b-9950-6eb865bd83f3" />
 
 ## Result
 Thus, The Python program that uses Hierarchical Inheritance to input and display Employee and Patient details was executed successfully.
