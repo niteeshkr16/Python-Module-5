@@ -48,6 +48,7 @@ print(d.Division(num1, num2))
 ~~~
 
 ## Output Example
+<img width="692" height="621" alt="image" src="https://github.com/user-attachments/assets/d22a7b5b-5813-4255-8d7e-bfb2b7818276" />
 
 ## Result
 Thus, The Python program demonstrates multiple inheritance by performing basic arithmetic operations — Addition, Subtraction, and Division — using three classes was executed successfully.
