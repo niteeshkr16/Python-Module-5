@@ -62,6 +62,8 @@ print(gc.getLocation())
 ~~~
 
 ## Sample Output
+<img width="725" height="545" alt="Screenshot 2026-04-26 094812" src="https://github.com/user-attachments/assets/c19f62ab-7f0b-4338-aac0-2f7fea547f52" />
+<img width="728" height="392" alt="image" src="https://github.com/user-attachments/assets/5a5a6490-e652-4fe6-9796-f915b5dbf1ae" />
 
 ## Result
 Thus, The Python program that uses multilevel inheritance to get and display a person’s name, age, and location was executed sucessfully.
